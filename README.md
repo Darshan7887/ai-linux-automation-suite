@@ -37,5 +37,14 @@ An AI-powered Linux automation suite built using **Bash scripting** to monitor s
 ---
 
 ## 📁 Project Structure
+ai-linux-automation-suite/
+│
+├── config/ # Configuration files
+├── lib/ # Reusable utility & logging functions
+├── scripts/ # Core automation scripts
+├── logs/ # Execution logs
+├── reports/ # Generated reports & AI summaries
+├── tests/ # Test placeholders
+└── README.md
 
 
