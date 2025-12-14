@@ -1,0 +1,82 @@
+2025-12-13 10:41:55 [INFO] Collecting CPU usage
+2025-12-13 10:45:48 [INFO] Collecting CPU usage
+2025-12-13 08:19:05 [INFO] Collecting CPU usage
+2025-12-13 08:19:05 [INFO] CPU usage collected: 1.1%
+2025-12-13 08:21:55 [INFO] Collecting CPU usage
+2025-12-13 08:21:56 [INFO] CPU usage collected: 0%
+2025-12-13 08:21:56 [INFO] Generating AI system summary
+2025-12-13 08:21:56 [INFO] AI summary generated
+2025-12-13 08:26:44 [INFO] Collecting CPU usage
+2025-12-13 08:26:45 [INFO] CPU usage collected: 0%
+2025-12-13 08:26:45 [INFO] Generating AI system summary
+2025-12-13 08:26:45 [INFO] AI summary generated
+2025-12-13 08:36:43 [INFO] Starting system log monitoring
+2025-12-13 08:36:43 [INFO] Scanning syslog for errors and warnings
+2025-12-13 08:36:43 [INFO] Syslog scan completed: Errors=15, Warnings=92
+2025-12-13 08:44:09 [INFO] Starting system log monitoring
+2025-12-13 08:44:09 [INFO] Scanning syslog for errors and warnings
+2025-12-13 08:44:09 [INFO] Syslog scan completed: Errors=15, Warnings=95
+2025-12-13 08:44:09 [INFO] Scanning auth log for failed SSH login attempts
+2025-12-13 08:44:09 [INFO] Failed SSH login attempts detected: 0
+2025-12-13 10:02:12 [INFO] Starting system log monitoring
+2025-12-13 10:02:12 [INFO] Scanning syslog for errors and warnings
+2025-12-13 10:02:12 [INFO] Syslog scan completed: Errors=16, Warnings=123
+2025-12-13 10:02:12 [INFO] Scanning auth log for failed SSH login attempts
+2025-12-13 10:02:12 [INFO] Failed SSH login attempts detected: 0
+2025-12-13 10:02:12 [INFO] Generating AI incident summary
+2025-12-13 10:02:12 [INFO] AI incident summary generated
+2025-12-13 11:07:15 [INFO] Starting automated backup
+2025-12-13 11:12:28 [INFO] Starting automated backup
+2025-12-13 11:12:35 [INFO] Backup created at ../reports/backups/backup_20251213_111228.tar.gz
+2025-12-13 11:12:35 [INFO] Old backups cleaned (>7 days)
+2025-12-13 11:19:55 [INFO] Starting network status check
+2025-12-13 11:19:55 [INFO] Checking internet connectivity
+2025-12-13 11:19:55 [INFO] Internet connectivity is available
+2025-12-13 11:20:53 [INFO] Starting network status check
+2025-12-13 11:20:53 [INFO] Checking internet connectivity
+2025-12-13 11:20:54 [INFO] Internet connectivity is available
+2025-12-13 11:20:54 [INFO] Checking DNS resolution
+2025-12-13 11:20:54 [INFO] DNS resolution working for google.com
+2025-12-13 11:21:42 [INFO] Starting network status check
+2025-12-13 11:21:42 [INFO] Checking internet connectivity
+2025-12-13 11:21:42 [INFO] Internet connectivity is available
+2025-12-13 11:21:42 [INFO] Checking DNS resolution
+2025-12-13 11:21:42 [INFO] DNS resolution working for google.com
+2025-12-13 11:21:42 [INFO] Measuring network latency
+2025-12-13 11:21:45 [INFO] Average latency measured: 85.472 ms
+2025-12-13 11:23:16 [INFO] Starting network status check
+2025-12-13 11:23:16 [INFO] Checking internet connectivity
+2025-12-13 11:23:16 [INFO] Internet connectivity is available
+2025-12-13 11:23:16 [INFO] Checking DNS resolution
+2025-12-13 11:23:16 [INFO] DNS resolution working for google.com
+2025-12-13 11:23:16 [INFO] Measuring network latency
+2025-12-13 11:23:19 [INFO] Average latency measured: 36.996 ms
+2025-12-13 11:23:19 [INFO] Checking open listening ports
+2025-12-13 11:23:20 [INFO] Open ports listed using ss
+2025-12-13 11:24:46 [INFO] Starting network status check
+2025-12-13 11:24:46 [INFO] Checking internet connectivity
+2025-12-13 11:24:46 [INFO] Internet connectivity is available
+2025-12-13 11:24:46 [INFO] Checking DNS resolution
+2025-12-13 11:24:46 [INFO] DNS resolution working for google.com
+2025-12-13 11:24:46 [INFO] Measuring network latency
+2025-12-13 11:24:49 [INFO] Average latency measured: 45.152 ms
+2025-12-13 11:24:49 [INFO] Checking open listening ports
+2025-12-13 11:24:49 [INFO] Open ports listed using ss
+2025-12-13 11:24:49 [INFO] Generating AI network health summary
+2025-12-13 11:24:50 [INFO] AI network health summary generated
+2025-12-13 11:29:25 [INFO] Starting security audit
+2025-12-13 11:29:25 [INFO] Auditing open listening ports
+2025-12-13 11:29:25 [INFO] Open ports captured using ss
+2025-12-13 11:30:27 [INFO] Starting security audit
+2025-12-13 11:30:27 [INFO] Auditing open listening ports
+2025-12-13 11:30:27 [INFO] Open ports captured using ss
+2025-12-13 11:30:27 [INFO] Auditing sudo users
+2025-12-13 11:30:27 [INFO] Sudo users listed successfully
+2025-12-13 11:47:35 [INFO] Starting security audit
+2025-12-13 11:47:35 [INFO] Auditing open listening ports
+2025-12-13 11:47:35 [INFO] Open ports captured using ss
+2025-12-13 11:47:35 [INFO] Auditing sudo users
+2025-12-13 11:47:35 [INFO] Sudo users listed successfully
+2025-12-13 11:47:35 [INFO] Auditing failed SSH login attempts
+2025-12-13 11:47:35 [INFO] Failed SSH login attempts counted: 0
+2025-12-13 11:47:35 [INFO] Generating AI security assessment
